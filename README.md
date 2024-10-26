@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+### 🍽️ Food Website - Fully Responsive & Built with React.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A visually engaging and fully mobile-responsive food website created with **React.js**! This project leverages **React Router** for seamless navigation, **multiple components** for a modular design, and **Cloudinary** for optimized image hosting.
+
+#### Features:
+- **Dynamic Page Navigation** with React Router
+- **Mobile-Friendly** design for a smooth user experience across all devices
+- **High-Quality Images** hosted on Cloudinary for faster load times
+- Modular structure for easy scaling and customization
+
+#### Technologies Used:
+- React.js
+- React Router
+- Cloudinary for image hosting
